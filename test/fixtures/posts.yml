@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  seconds: 1
+  readable_id: MyString
+  user_id: 
+
+two:
+  seconds: 1
+  readable_id: MyString
+  user_id: 
